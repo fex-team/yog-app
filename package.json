@@ -1,0 +1,17 @@
+{
+  "name": "yog-app",
+  "version": "0.0.1",
+  "description": "yog-app",
+  "main": "server.js",
+  "dependencies": {
+    "express": "~4.4.3",
+    "yog": "0.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fex-team",
+  "license": "MIT"
+}
