@@ -14,7 +14,7 @@ $ npm install
 # 下载前端 demo
 $ lights install yogurt-demo
 $ cd yogurt-demo
-$ yogurt relase -d ../yog-app
+$ yogurt release -d ../yog-app # or yog release -d ../yog-app
 
 # 进入 yog-app 启动服务
 $ cd ../yog-app
