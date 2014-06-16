@@ -10,6 +10,7 @@ $ cd ~/projects
 $ git clone https://github.com/fex-team/yog-app.git
 $ cd yog-app
 $ npm install
+$ cd .. # 保持yog-app和yogurt-demo同级目录
 
 # 下载前端 demo
 $ lights install yogurt-demo
