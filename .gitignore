@@ -2,3 +2,5 @@
 /config/*-map.json
 /node_modules
 /public/*/
+.DS_Store
+*.log
