@@ -13,6 +13,14 @@
     "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fex-team/yogurt-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fex-team/yogurt-app/issues"
+  },
+  "homepage": "https://github.com/fex-team/yogurt-app",
   "author": "fex-team",
   "license": "MIT"
 }
