@@ -1,3 +1,20 @@
 {
+    "middleware": {
+
+        "yogDevTools": {
+            "enabled": true,
+            "priority": 150,
+            "module": {
+                "name": "yog-devtools",
+                "arguments": [
+                    {
+                        "data_path": "path:./test/",
+                        "view_path": "path:./views",
+                        "rewrite_file": "path:./config/server.conf"
+                    }
+                ]
+            }
+        }
+    }
 
 }

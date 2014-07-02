@@ -5,7 +5,8 @@
   "main": "server.js",
   "dependencies": {
     "express": "~4.4.3",
-    "yog": "~0.0.7"
+    "yog": "~0.0.7",
+    "yog-devtools": "~0.0.1"
   },
   "devDependencies": {},
   "scripts": {
