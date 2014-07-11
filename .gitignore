@@ -1,5 +1,7 @@
 /views
 /config/*-map.json
+/config/server.conf
+/test
 /node_modules
 /public/*/
 /data
