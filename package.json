@@ -4,7 +4,7 @@
   "description": "yog-app",
   "main": "server.js",
   "dependencies": {
-    "express": "~4.4.3",
+    "express": "~4.17.1",
     "yog": "~0.0.7",
     "yog-devtools": "~0.0.1"
   },
